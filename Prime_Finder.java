@@ -9,7 +9,6 @@ public class Prime_Finder{
         int i,j,count;
         count=1;
 
-        System.out.println("Hello");
         System.out.println(Prime[3]);
         for(i=3;i<n;i++){
             boolean is_prime = true;
